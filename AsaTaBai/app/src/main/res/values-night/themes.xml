@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources id= "nightTheme">
+
+    <style name="Theme.AsaTaBai" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Define your primary colors -->
+        <item name="colorPrimary">#6200EE</item>
+        <item name="colorPrimaryVariant">#3700B3</item>
+        <item name="colorOnPrimary">#FFFFFF</item>
+
+        <!-- Background Colors -->
+        <item name="android:windowBackground">?attr/colorSurface</item>
+    </style>
+
+    <!-- DARK MODE -->
+    <style name="SCREEN">
+        <item name="android:background">#232323</item>
+    </style>
+
+    <style name="TEXT">
+        <item name="android:textColor">#FFFFFF</item>
+    </style>
+</resources>

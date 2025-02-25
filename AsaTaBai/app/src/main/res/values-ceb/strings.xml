@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AsaTaBai</string>
+    <string name="about_the_developers">Mahitungod sa mga Developer</string>
+    <string name="settings">Mga Setting</string>
+    <string name="night_mode">Gabii nga Mode</string>
+    <string name="language">Pinulongan</string>
+    <string name="jeep">Dyip</string>
+    <string name="asa_ta_bai">Asa Ta Bai?</string>
+    <string name="username">Username</string>
+    <string name="don_t_have_an_account_sign_up">Wala kay account? Pagparehistro</string>
+    <string name="sign_in">Sulod</string>
+    <string name="password">Password</string>
+    <string name="about_the_developers2">Mahitungod sa mga Developer</string>
+
+    <string name="language_english">Iningles</string>
+    <string name="language_filipino">Filipino</string>
+    <string name="language_cebuano">Cebuano</string>
+</resources>
